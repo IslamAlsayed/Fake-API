@@ -1,0 +1,38 @@
+{
+   "recipes": [
+      {
+         "id": 1,
+         "type": "dishes",
+         "image": "Images/Sun.png"
+   },
+      {
+         "id": 2,
+         "type": "dishes",
+         "image": "Images/Sun.png"
+   },
+      {
+         "id": 3,
+         "type": "denners",
+         "image": "Images/Sun.png"
+   },
+      {
+         "id": 4,
+         "type": "dishes",
+         "image": "Images/Sun.png"
+   },
+      {
+         "id": 5,
+         "type": "denners",
+         "image": "Images/Sun.png"
+   },
+      {
+         "id": 6,
+         "type": "dishes",
+         "image": "Images/Sun.png"
+   },
+      {
+         "id": 7,
+         "type": "dishes",
+         "image": "Images/Sun.png"
+   }
+]
